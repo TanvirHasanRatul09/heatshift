@@ -13,6 +13,9 @@ __pycache__/
 # Local runtime data
 backend/heatshift.db
 
+# Internal implementation plan
+HEATSHIFT_ROUND2_MVP_IMPLEMENTATION.md
+
 # Environment and editor files
 .env
 .env.*
